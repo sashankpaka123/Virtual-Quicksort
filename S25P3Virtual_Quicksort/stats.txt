@@ -1,0 +1,30 @@
+Data File: checkme.txt
+Cache Hits: 76412
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 4 ms
+------------------------------
+Data File: checkme.txt
+Cache Hits: 76412
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 3 ms
+------------------------------
+Data File: checkme.txt
+Cache Hits: 76412
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 2 ms
+------------------------------
+Data File: checkme.txt
+Cache Hits: 76412
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 3 ms
+------------------------------
+Data File: checkme.txt
+Cache Hits: 76412
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 3 ms
+------------------------------

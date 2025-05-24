@@ -1,0 +1,250 @@
+Standard sort on oneBlock.txt
+Cache Hits: 23299
+Disk Reads: 1
+Disk Writes: 1
+Standard sort on fiveBlock.txt
+Cache Hits: 143550
+Disk Reads: 5
+Disk Writes: 5
+Standard sort on bigInput.bin
+Cache Hits: 314114
+Disk Reads: 10
+Disk Writes: 10
+Standard sort on bigInputWithFewerBuffers.bin
+Cache Hits: 138283
+Disk Reads: 39
+Disk Writes: 39
+Data File: input.bin
+Cache Hits: 522863
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 4 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 522863
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 50 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 522454
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 6 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 522454
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 5 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 522454
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 8 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 522454
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 8 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 520926
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 4 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 520926
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 4 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 520926
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 4 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 520926
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 6 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 520926
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 7 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 520926
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 6 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 520926
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 3 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 520926
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 5 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 520802
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 4 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 520802
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 3 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 520802
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 3 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 520802
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 8 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 522557
+Disk Reads: 2
+Disk Writes: 1
+Time Taken: 7 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 522557
+Disk Reads: 2
+Disk Writes: 1
+Time Taken: 5 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 522557
+Disk Reads: 2
+Disk Writes: 1
+Time Taken: 8 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 518031
+Disk Reads: 2
+Disk Writes: 1
+Time Taken: 6 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 518031
+Disk Reads: 2
+Disk Writes: 1
+Time Taken: 9 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 518031
+Disk Reads: 2
+Disk Writes: 1
+Time Taken: 3 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 518031
+Disk Reads: 2
+Disk Writes: 1
+Time Taken: 4 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 518031
+Disk Reads: 2
+Disk Writes: 1
+Time Taken: 4 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 517238
+Disk Reads: 2
+Disk Writes: 1
+Time Taken: 8 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 515331
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 13 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 515331
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 16 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 518421
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 11 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 518421
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 11 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 518421
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 11 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 518421
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 11 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 518421
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 16 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 518421
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 14 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 518421
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 11 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 518421
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 10 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 518421
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 9 ms
+------------------------------
+Data File: input.bin
+Cache Hits: 518421
+Disk Reads: 1
+Disk Writes: 1
+Time Taken: 9 ms
+------------------------------
